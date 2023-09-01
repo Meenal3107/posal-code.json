@@ -686,7 +686,7 @@
     "Note": "See also Japanese addressing system.",
     "Country": "Japan",
     "ISO": "JP",
-    "Format": "NNN-NNNN",
+    "Format": "NNN NNNN",
     "Regex": "^\\d{3}-\\d{4}$"
 }, {
     "Note": "UK-format postcode.",
